@@ -1,0 +1,8 @@
+/* Default CSS styles sheet */
+
+div {
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    text-align: center;
+}
