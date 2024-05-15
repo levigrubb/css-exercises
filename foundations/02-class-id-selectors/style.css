@@ -1,0 +1,31 @@
+/* Main CSS style sheet */
+
+p {
+    background-color: pink;
+    font: dejavu-sans;
+    font-family: Verdana, sans-serif, DejaVu Sans;
+}
+
+.verdana {
+    font-family: Verdana;
+}
+
+.sans {
+    font-family: sans-serif;
+    font-size: 24px
+}
+
+.dejavu {
+    font-family: dejavu sans;
+}
+
+.four {
+    font-size: 24px;
+    background-color: #8bc34a;
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+    font-size: 36px
+}
